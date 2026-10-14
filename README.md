@@ -19,6 +19,7 @@ IT student at **COTUCA — UNICAMP**, Brazil, interested in software development
 - **Reserva Hotel** - [JPA](https://github.com/Isabelly-Gomes-Oliveira/reservaHotel)
 - **Técnicas de Hashing** — [Hashing](https://github.com/dev-oton07/Tecnicas-de-Hashing)
 - **Sistema Solar** — [Sistema Solar 3D](https://github.com/cc23582/Projeto-Jogos-Planetas)
+- **EqualityJob** - [APP para busca de emprego](https://github.com/Isabelly-Gomes-Oliveira/EqualityJob)
 - **Refúgio Animal** - [APP para Adoção](https://github.com/Isabelly-Gomes-Oliveira/Ref-gio-Animal)
 
 ### 📫 Contact
