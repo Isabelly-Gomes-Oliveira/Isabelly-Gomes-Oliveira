@@ -1,28 +1,26 @@
-<table>
-  <tr>
-    <td style="width: 30%;">
-       <img src="https://i.pinimg.com/736x/6e/8d/89/6e8d89e3b548debc4d2d5683f65beb94.jpg" style="width: 200%; border: none;"/>
-    </td>
-    <td style="width: 70%; vertical-align: top;">
-      <p style="font-family: monospace; font-size: 16px;">
-       
-    (_)  _______       ____
-    | | |  _____|     / /\ \ 
-    | | |  |____     / /__\ \
-    | | |_____  |   /  _____ \
-    | |  _____| |  / /      \ \
-    |_| |_______| /_/        \_\
+# Hi, I'm a Software Development Student! 💻
 
+IT student at **COTUCA — UNICAMP**, Brazil, interested in software development and technology.
 
+### 🚀 About Me
 
-</p>
+ - 🎓 Technical education in IT at COTUCA — UNICAMP.
+ - 💡 Interested in software development, problem-solving, and emerging technologies.
+ - 🛠️ Experience developing academic projects involving applications, APIs, databases, and artificial intelligence.
+ - 🎯 Looking to grow as a developer and contribute to meaningful projects.
 
-    /About Me
-    
-    
+### 🛠️ Technologies
+- **Core Languages:** Java, JavaScript, Python, C#
+- **Other:** SQL, Artificial Intelligence, Embedded Systems & IoT, Game Development
 
+### 🚀 Projects
+- **IAthena** — [TCC](https://github.com/Isabelly-Gomes-Oliveira/IAthena)
+- **Reserva Laboratórios e Salas de Aula** — [API Spring Boot](https://github.com/cc23582/API-spring-boot)
+- **Reserva Hotel** - [JPA](https://github.com/Isabelly-Gomes-Oliveira/reservaHotel)
+- **Técnicas de Hashing** — [Hashing](https://github.com/dev-oton07/Tecnicas-de-Hashing)
+- **Sistema Solar** — [Sistema Solar 3D](https://github.com/cc23582/Projeto-Jogos-Planetas)
+- **Refúgio Animal** - [APP para Adoção](https://github.com/Isabelly-Gomes-Oliveira/Ref-gio-Animal)
 
-       
-        
-  </tr>
-</table>
+### 📫 Contact
+- **LinkedIn:** [Isabelly G. de Oliveira - LinkedIn](www.linkedin.com/in/isabelly-gomes-de-oliveira)
+- **Email:** [gomesdeoliveira445@gmail.com]
