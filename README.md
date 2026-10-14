@@ -24,4 +24,4 @@ IT student at **COTUCA — UNICAMP**, Brazil, interested in software development
 
 ### 📫 Contact
 - **LinkedIn:** [Isabelly G. de Oliveira - LinkedIn](www.linkedin.com/in/isabelly-gomes-de-oliveira)
-- **Email:** [gomesdeoliveira445@gmail.com]
+- **Email:** gomesdeoliveira445@gmail.com
